@@ -1,4 +1,4 @@
-import { Brain, Code2, Cpu, Earth, WholeWordIcon } from "lucide-react";
+import { Brain, Code2, Cpu, Earth} from "lucide-react";
 import React from "react";
 
 const data = [

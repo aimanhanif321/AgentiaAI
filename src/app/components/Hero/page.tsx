@@ -1,4 +1,4 @@
-import { ArrowLeft, ArrowRight, Bot, ChevronRight } from "lucide-react";
+import {  Bot, ChevronRight } from "lucide-react";
 import React from "react";
 import AnimationText from "../Animation/page";
 
